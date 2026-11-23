@@ -8,9 +8,11 @@
 
 ### [최신 Windows 실행용 ZIP 다운로드 페이지](https://github.com/hongbin56/pe-class-helper/releases/latest)
 
+[Windows 실행용 ZIP 바로 받기](https://github.com/hongbin56/pe-class-helper/releases/latest/download/PE-Class-Helper-v1.0.14-windows-x64.zip)
+
 **현재 버전: v1.0.14 / Windows 10·11 64비트 / Python 설치 불필요**
 
-1. 위 페이지의 **Windows 실행용 ZIP**을 내려받습니다.
+1. 위 페이지의 **Windows 실행용 ZIP**(`PE-Class-Helper-v1.0.14-windows-x64.zip`)을 내려받습니다.
 2. 압축을 완전히 풀고 `프로그램_실행.bat` 또는 `체육수업_운영도우미.exe`를 실행합니다.
 3. 학생 명단에서 빈 Excel 양식을 받아 작성·업로드하거나 가상 예제로 먼저 확인합니다.
 

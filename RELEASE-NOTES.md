@@ -4,6 +4,8 @@
 
 아래 Assets에서 **Windows 실행용 ZIP**을 내려받아 압축을 완전히 풀고 `프로그램_실행.bat` 또는 `체육수업_운영도우미.exe`를 실행하세요. **Source code (zip)**은 소개 문서이며 실행 파일이 아닙니다.
 
+[Windows 실행용 ZIP 바로 받기](https://github.com/hongbin56/pe-class-helper/releases/download/v1.0.14/PE-Class-Helper-v1.0.14-windows-x64.zip)
+
 ## 이번 버전
 
 - 팀 편성·토너먼트·리그·제비뽑기·판서·스톱워치.
